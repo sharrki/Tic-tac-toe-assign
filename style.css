@@ -1,0 +1,36 @@
+html{
+background-image: url("images/cool.jpg");
+background-size: cover;
+background-repeat: repeat;
+}
+body{
+text-align: center;
+
+}
+tr, th{
+    border-width: 3px;
+    border-style: solid;
+    width: 200px;
+    height:200px;
+    background-color: white;
+    opacity: 0.75;
+}
+table{
+    margin: 0 auto;
+    font-size: 96px;
+}
+h3{
+    color: white;
+    width: 300px;
+}
+
+div{
+    float: right;
+}
+
+button{
+    background-color: grey;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+}
